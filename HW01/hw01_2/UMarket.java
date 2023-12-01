@@ -1,3 +1,4 @@
+package HW01.hw01_2;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.concurrent.atomic.AtomicInteger;

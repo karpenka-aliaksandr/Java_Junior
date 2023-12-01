@@ -1,4 +1,4 @@
-
+package HW01.hw01_2;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -48,10 +48,6 @@ public class Cart <T extends Food>{
      */
     public void cardBalancing()
     {
-
-
-        
-        ArrayList<Thing> thinks;
         AtomicBoolean hasProteins = new AtomicBoolean(false);
         AtomicBoolean hasFats = new AtomicBoolean(false);
         AtomicBoolean hasCarbohydrates = new AtomicBoolean(false);
