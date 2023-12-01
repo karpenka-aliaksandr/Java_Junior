@@ -27,3 +27,9 @@ replay_pid*
 Lection*/
 Seminare*/
 
+
+.idea
+.vscode
+settings.json
+HW01/hw01_2/out/
+HW01/hw01_2/hw01_2.iml
